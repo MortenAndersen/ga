@@ -997,6 +997,17 @@ body {
   padding-bottom: 4rem;
 }
 
+.widget_polylang ul {
+  display: flex;
+  gap: 1rem;
+  text-transform: uppercase;
+}
+.widget_polylang ul li {
+  margin: 0;
+  padding: 0;
+  list-style-type: none;
+}
+
 @media (max-width: 1099px) {
   .menu-trigger {
     position: absolute;
