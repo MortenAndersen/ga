@@ -1,0 +1,62 @@
+@use 'elements/breakpoints'as b;
+
+@media(min-width: b.$menu-break) {
+
+	// DropDown
+	
+    .main-m {
+        margin-top: 5vh;
+        max-width: 700px;
+        a {
+            padding: 1rem;
+            transition: .5s background;
+            text-transform: uppercase;
+            color: #fff;
+
+            &:hover {
+                color: #ccc;
+            }
+        }
+
+        ul {
+            display: flex;
+        }
+
+        li {
+            position: relative;
+            flex:1;
+        }
+
+        .sub-menu {
+            flex-flow: column;
+            position: absolute;
+            width: 100%;
+            display: none;
+
+            .sub-menu {
+                right: -100%;
+                top: 0;
+            }
+        }
+
+        li:hover>.sub-menu {
+            display: flex;
+        }
+        [aria-current] {
+            border-bottom: 5px solid #fff;
+        }
+    }
+}
+
+@media(min-width: b.$menu-break) {
+    .sti-hea {
+        position: absolute;
+        top: 0;
+        left: 0;
+        right: 0;
+        z-index: 100;
+        .admin-bar & {
+            top: 32px;
+        }
+    }
+}

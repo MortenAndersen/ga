@@ -1,0 +1,146 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: allstart\n"
+"POT-Creation-Date: 2022-04-21 14:16+0200\n"
+"PO-Revision-Date: 2022-04-21 14:21+0200\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: da_DK\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: Poedit 3.0.1\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: style.css\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;"
+"_n_noop:1,2;_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+
+#: functions.php:61
+msgid "Main Menu"
+msgstr ""
+
+#: inc/widgets/widgets.php:7
+msgid "Top"
+msgstr ""
+
+#: inc/widgets/widgets.php:9
+msgid "Øverst på siden"
+msgstr ""
+
+#: inc/widgets/widgets.php:20
+msgid "Aside left"
+msgstr ""
+
+#: inc/widgets/widgets.php:22
+msgid "Venstre sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:32
+msgid "Aside Indlæg"
+msgstr ""
+
+#: inc/widgets/widgets.php:34
+msgid "Sidebar på Indlæg"
+msgstr ""
+
+#: inc/widgets/widgets.php:44
+msgid "Aside right"
+msgstr ""
+
+#: inc/widgets/widgets.php:46
+msgid "Højre sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:57
+msgid "Pre content"
+msgstr ""
+
+#: inc/widgets/widgets.php:59
+msgid "Widget før indhold"
+msgstr ""
+
+#: inc/widgets/widgets.php:70
+msgid "Post content"
+msgstr ""
+
+#: inc/widgets/widgets.php:72
+msgid "Widget efter indhold"
+msgstr ""
+
+#: inc/widgets/widgets.php:84
+msgid "Pre Footer"
+msgstr ""
+
+#: inc/widgets/widgets.php:86
+msgid "Før sidefod"
+msgstr ""
+
+#: inc/widgets/widgets.php:97
+msgid "Footer"
+msgstr ""
+
+#: inc/widgets/widgets.php:99
+msgid "Sidefod"
+msgstr ""
+
+#: inc/widgets/widgets.php:110
+msgid "Post Footer"
+msgstr ""
+
+#: inc/widgets/widgets.php:112
+msgid "Efter sidefod"
+msgstr ""
+
+#: inc/widgets/widgets.php:126
+msgid "404"
+msgstr ""
+
+#: inc/widgets/widgets.php:128
+msgid "404 siden"
+msgstr ""
+
+#: template-parts/content/page-search.php:5
+msgid "Search Results for"
+msgstr "Søgeresultat for"
+
+#: template-parts/content/page-search.php:7
+msgid "Nothing Found"
+msgstr "Desværre er der ingenting fundet på søgningen"
+
+#: template-parts/content/page-search.php:8
+msgid "Search Suggestions"
+msgstr "Prøv at"
+
+#: template-parts/content/page-search.php:10
+msgid "Check your spelling"
+msgstr "Tjek om du har stavet rigtigt"
+
+#: template-parts/content/page-search.php:11
+msgid "Try more general words"
+msgstr "Prøv mere generelle ord"
+
+#: template-parts/content/page-search.php:12
+msgid "Try different words that mean the same thing"
+msgstr "Prøv andre ord der har samme betydning"
+
+#. Theme Name of the plugin/theme
+msgid "AllStart"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+msgid "https://github.com/MortenAndersen/allstart"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Starter theme"
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "Morten Andersen"
+msgstr ""

@@ -1,0 +1,143 @@
+@use 'elements/breakpoints'as b;
+@use 'elements/size'as s;
+
+.grid {
+    display: grid;
+}
+
+.gap-1 {
+    grid-gap: 1rem
+}
+
+.gap-2 {
+    grid-gap: 2rem
+}
+
+.gap-3 {
+    grid-gap: 3rem
+}
+
+.gap-4 {
+    grid-gap: 4rem
+}
+
+@media (min-width: b.$phone) {
+    .g-2 {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .g-3 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .g-4 {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .g-5 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .g-6 {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .g-7 {
+        grid-template-columns: repeat(2, 1fr);
+    }
+
+    .g-8 {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+}
+
+
+@media (min-width: b.$ipad-vertical) {
+    .g-2 {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .g-3 {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .g-4 {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .g-5 {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .g-6 {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .g-7 {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+
+    .g-8 {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+}
+
+@media (min-width: b.$ipad) {
+    .g-2 {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .g-3 {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .g-4 {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+
+    .g-5 {
+        grid-template-columns: repeat(5, minmax(0, 1fr));
+    }
+
+    .g-6 {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .g-7 {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+
+    .g-8 {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+}
+
+@media (min-width: b.$desktop) {
+    .g-2 {
+        grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
+
+    .g-3 {
+        grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+
+    .g-4 {
+        grid-template-columns: repeat(4, minmax(0, 1fr));
+    }
+
+    .g-5 {
+        grid-template-columns: repeat(5, minmax(0, 1fr));
+    }
+
+    .g-6 {
+        grid-template-columns: repeat(6, minmax(0, 1fr));
+    }
+
+    .g-7 {
+        grid-template-columns: repeat(7, minmax(0, 1fr));
+    }
+
+    .g-8 {
+        grid-template-columns: repeat(8, minmax(0, 1fr));
+    }
+}

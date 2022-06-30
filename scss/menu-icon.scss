@@ -1,0 +1,61 @@
+@use 'elements/breakpoints'as b;
+
+.m-o {
+    position: absolute;
+    top: 1rem;
+    right: 1rem;
+    z-index: 100;
+    width: 40px;
+    cursor: pointer;
+    fill: var(--menu-icon);
+    transition: .5s fill;
+    &:hover {
+            fill: var(--menu-icon-hover);
+        }
+}
+
+.m-c {
+    width: 50px;
+    height: 50px;
+    cursor: pointer;
+    position: relative;
+    z-index: 100;
+    fill: var(--menu-icon-close);
+    display: none;
+    background: #5f0000;
+    margin-left: 50%;
+    left: -25px;
+    top: 20px;
+    border-radius: 50%;
+    box-shadow: 0 0 30px #ffffff73;
+}
+
+@media(min-width: b.$menu-break) {
+    .m-o {
+        display: none;
+    }
+}
+
+
+.g-t-t {
+    position: fixed;
+    right: 10px;
+    bottom: 100px;
+    display: none;
+    &.ggt-active {
+        display: block;
+    }
+    svg {
+        width: 20px;
+        height: 20px;
+    }
+        
+}
+g#pil-op {
+    fill: var(--go-to-top);
+}
+@media (min-width: b.$menu-break) {
+    .g-t-t {
+        right: 20px;
+    }
+}

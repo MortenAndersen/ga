@@ -1,0 +1,48 @@
+body {
+	background-color: var(--body-bg);
+}
+#main {
+	background-color: var(--main-bg);
+}
+.hea {
+	background-color: var(--header-bg);
+}
+.fot {
+	color: #fff;
+	padding: 2rem 0;
+	a {
+		color: #fff;
+	}
+}
+.rel {
+	position: relative;
+	display: flex;
+	align-items: center;
+}
+.top-post-img {
+	min-height: 40vh;
+    max-height: 700px;
+    background-size: cover;
+    background-position: center;
+    display: flex;
+}
+
+.top-cap {
+    color: #fff;
+    margin-left: auto;
+}
+.ban-tit,
+.ban-tit-sub {
+	display: block;
+	line-height: 1.1;
+}
+.ban-tit {
+	font-size: clamp(2rem, 3vw, 4rem);
+}
+.ban-tit-sub {
+	font-size: clamp(1rem, 2vw, 3rem);
+}
+.pa {
+	padding-top: 4rem;
+	padding-bottom: 4rem
+}

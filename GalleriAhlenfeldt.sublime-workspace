@@ -1,0 +1,955 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"mar",
+				"margin"
+			],
+			[
+				"ma",
+				"margin-left"
+			],
+			[
+				"bor",
+				"border-radius"
+			],
+			[
+				"ov",
+				"overflow"
+			],
+			[
+				"tex",
+				"text-indent"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"border-r",
+				"border-radius"
+			],
+			[
+				"all",
+				"allstart"
+			],
+			[
+				"hea",
+				"header"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"min",
+				"min-width"
+			],
+			[
+				"m",
+				"margin-bottom"
+			],
+			[
+				"r",
+				"right"
+			],
+			[
+				"o",
+				"overskrift"
+			],
+			[
+				"pD",
+				"padding-bottom"
+			],
+			[
+				"border",
+				"border-bottom"
+			],
+			[
+				"pad",
+				"padding-left"
+			],
+			[
+				"text",
+				"text-transform"
+			],
+			[
+				"p",
+				"padding-top"
+			],
+			[
+				"fon",
+				"font-weight"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"svg_",
+				"svg_end"
+			],
+			[
+				"border-l",
+				"border-left-width"
+			],
+			[
+				"max",
+				"max-width"
+			],
+			[
+				"lo",
+				"location"
+			],
+			[
+				"li",
+				"list-style-type"
+			],
+			[
+				"te",
+				"telefon_2"
+			],
+			[
+				"teh",
+				"the_field"
+			],
+			[
+				"last",
+				"last-of-type"
+			],
+			[
+				"di",
+				"direction"
+			],
+			[
+				"borde",
+				"border-top"
+			],
+			[
+				"ba",
+				"background"
+			],
+			[
+				"la",
+				"last-child"
+			],
+			[
+				"pos",
+				"posts_per_page"
+			],
+			[
+				"the_",
+				"the_excerpt"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"we",
+				"webspeed-post"
+			],
+			[
+				"padd",
+				"padding-bottom"
+			],
+			[
+				"page-aside",
+				"page-aside-left-right"
+			],
+			[
+				"fo",
+				"font-n"
+			],
+			[
+				"ga",
+				"gap-s"
+			],
+			[
+				"a",
+				"auto"
+			],
+			[
+				"fle",
+				"flex\tproperty"
+			],
+			[
+				"b",
+				"both"
+			],
+			[
+				"al",
+				"align-self\tproperty"
+			],
+			[
+				"ord",
+				"orderby"
+			],
+			[
+				"margi",
+				"margin-bottom"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"fel",
+				"flex-flow\tproperty"
+			],
+			[
+				"mi",
+				"min-width"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"n",
+				"none"
+			],
+			[
+				"i",
+				"italic"
+			],
+			[
+				"box",
+				"box-shadow"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"list",
+				"list-style-type\tproperty"
+			],
+			[
+				"h",
+				"hidden"
+			],
+			[
+				"c",
+				"center"
+			],
+			[
+				"sel",
+				"align-self\tproperty"
+			],
+			[
+				"re",
+				"relative"
+			],
+			[
+				"l",
+				"left\tproperty"
+			],
+			[
+				"fil",
+				"fill\tproperty"
+			],
+			[
+				"mx",
+				"max-width\tproperty"
+			],
+			[
+				"tra",
+				"transition\tproperty"
+			],
+			[
+				"ech",
+				"echo"
+			],
+			[
+				"backgro",
+				"background-repeat\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"fl",
+				"flex\tproperty"
+			],
+			[
+				"txt",
+				"text2"
+			],
+			[
+				"end",
+				"endwhile"
+			],
+			[
+				"get_optin",
+				"get_option"
+			],
+			[
+				"ec",
+				"echo"
+			],
+			[
+				"en",
+				"endif"
+			],
+			[
+				"custom",
+				"custom-header"
+			],
+			[
+				"ca",
+				"caption"
+			],
+			[
+				"si",
+				"site_title"
+			],
+			[
+				"bord",
+				"border-bottom"
+			],
+			[
+				"lis",
+				"list-style-type"
+			],
+			[
+				"bac",
+				"background-image"
+			],
+			[
+				"ch",
+				"children\t.children()"
+			],
+			[
+				"ac",
+				"active-trail"
+			],
+			[
+				"rem",
+				"removeClass\t.removeClass()"
+			],
+			[
+				"da",
+				"date_now"
+			],
+			[
+				"hide",
+				"hide-end-time"
+			],
+			[
+				"grid",
+				"grid-padding"
+			],
+			[
+				"sp",
+				"space-between\tjustify-content"
+			],
+			[
+				"simple",
+				"simple-grid-con"
+			],
+			[
+				"sim",
+				"simple-grid-con"
+			],
+			[
+				"margin",
+				"margin-top\tproperty"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"con",
+				"content"
+			],
+			[
+				"e",
+				"echo\techo \"…\""
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground"
+			],
+			[
+				"wor",
+				"workshop"
+			],
+			[
+				"array_",
+				"array_diff"
+			],
+			[
+				"font-s",
+				"font-size"
+			],
+			[
+				"the",
+				"the_category"
+			],
+			[
+				"tet",
+				"text-decoration"
+			],
+			[
+				"le",
+				"letter-spacing"
+			],
+			[
+				"the_po",
+				"the_post_thumbnail"
+			],
+			[
+				"flex",
+				"flex-item"
+			],
+			[
+				"fi",
+				"file_head\tWordPress File Header"
+			],
+			[
+				"s",
+				"src\tAttr"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"op",
+				"option\tTag"
+			],
+			[
+				"f",
+				"flex-end"
+			],
+			[
+				"alig",
+				"align-content"
+			],
+			[
+				"cl",
+				"clear"
+			],
+			[
+				"S",
+				"Shangies"
+			],
+			[
+				"L",
+				"Laursen"
+			],
+			[
+				"Vat",
+				"vattaeppe"
+			],
+			[
+				"ie",
+				"item3"
+			],
+			[
+				"he",
+				"header\tTag"
+			],
+			[
+				"toggle",
+				"toggleClass\t.toggleClass()"
+			],
+			[
+				"bo",
+				"both"
+			],
+			[
+				"fonts",
+				"font-style: "
+			],
+			[
+				"backr",
+				"background: "
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"wid",
+				"width"
+			],
+			[
+				"fin",
+				"finish\t.finish()"
+			],
+			[
+				"ap",
+				"appendTo\t.appendTo()"
+			],
+			[
+				"backg",
+				"background: "
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"bot",
+				"both"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "",
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"pa",
+				"Package Control: Remove Package"
+			],
+			[
+				"Snippet: men",
+				"Snippet: menu2"
+			],
+			[
+				"Snippet: htm",
+				"Snippet: Blank HTML Page"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"Snippet: ",
+				"Snippet: menu2"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"scss",
+				"Set Syntax: CSS"
+			],
+			[
+				"",
+				"File: Close All"
+			]
+		],
+		"width": 476.0
+	},
+	"console":
+	{
+		"height": 126.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/ga"
+	],
+	"file_history":
+	[
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/template-parts/content/page-article.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/template-parts/aside/aside-right.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/js/theme.js",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/footer.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/scss/menu-icon.scss",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/header.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/scss/root.scss",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/scss/elements.scss",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/scss/style.scss",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/scss/menu-desktop-dropdown.scss",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/template-parts/aside/aside-left.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/template-parts/content/post-article.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/comments.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/scss/form.scss",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/inc/functions/functions.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/functions.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/scss/menu-mobile.scss",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/scss/reset.scss",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/scss/fonts.scss",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/XXXcomments.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/template-parts/nav/main-menu.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/scss/layout.scss",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/template-parts/content/page-search.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/scss/menu-desktop.scss",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/index.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/single.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/template-parts/content/blog-loop.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/inc/acf/acf.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/404.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/search.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/img/menu-icon.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/img/menu-icon-close.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/languages/da_DK.po",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/inc/widgets/widgets.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/page.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/template-parts/blog-loop.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/sidebar.php",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/scss/wp-head.scss",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/scss/normalize.css",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/scss/guttenberg.scss",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/scss/flex.scss",
+		"/Users/morten/Sites/localhost/wordpress/wp-content/themes/allstart/scss/grid.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/nav/main-menu.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/header.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/menu-desktop.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/root.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/js/starter.js",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/megamenu.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/layout.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/nav.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/elements.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/menu-mobile.scss",
+		"/Users/morten/Desktop/t.svg",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/woo.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/inc/woocommerce-functions.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/inc/widgets.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/style.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/woocommerce/single-product-reviews.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/archive.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/woocommerce/single-product/tabs/XXXadditional-information.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/woocommerce/templates/single-product/tabs/additional-information.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/contact.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/XXXwoocommerce.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/wp.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/sidebar.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/functions.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/content/page-woocommerce.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/personer.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/inc/web-functions.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/form.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/gutenberg-blocks/contact/contact.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/gutenberg-blocks/meeting/meeting.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/img/contact/sprite-sheet.svg",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/img/contact/icons/facebook.svg",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/img/contact/icon-mail.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/inc/gutenberg/acf-blocks.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/img/contact/icon-meeting.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/img/contact/meeting.svg",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/content/blog-loop.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/content/post-article.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/table.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/img/menu-icon.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/fonts.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/inc/shortcode-post-related.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/content/archive-loop.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/page-aside-right-titleimg.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/content/page-article-aside-right.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/content/page-article-aside-left.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/inc/acf.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/page-aside-left-titleimg.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/content/page-article.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/inc/shortcode-child-grid.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/searchform.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/img/contact/icon-cell.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/img/contact/icon-phone.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/img/contact/icon-location.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/gutenberg-blocks/acc/acc.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/page-normal-titleimg.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/inc/shortcode-page.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/footer.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/contactform.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/pre-header.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/menu-icon.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/footer.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/acc.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/inc/shortcode-post.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/inc/shortcode-post-releated.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/inc/guttenberg/acf-blocks.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/single-event.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/fokus.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/slide-in.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/content/page-article-aside-left-right.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/content/page-article-no-wrap.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/grid.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/elements/size.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/content/post-article-no-wrap.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/content/person-article.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/content/event-article.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/inc/post-type-shortcode.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/inc/grid-gap.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/aside/aside-single.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/content/page-search.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/page-aside-right-topimg.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/single-person.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/aside/aside-person.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/scss/event.scss",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/inc/shortcode.php",
+		"/Users/morten/Sites/localhost/wp/wp-content/themes/webspeed/template-parts/aside/aside-event.php"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 134.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"^(\\r|\\n\\r?)",
+			"mobile-menu ",
+			"mobile-menu",
+			"widget",
+			"webspeed-domain",
+			"-d",
+			"site-menu",
+			"dk.newsite",
+			"fill",
+			"fill=\"#fff\"",
+			"fill",
+			"has-background",
+			".wp-block-image",
+			".top-post-img",
+			"web-content-image",
+			"web-doamin",
+			".wp-block-search .wp-block-search__inside-wrapper",
+			"web-domain",
+			"webs-domain"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+			"",
+			"allstar-domain",
+			"webspeed-domain"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 38.0
+	},
+	"input":
+	{
+		"height": 50.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 144.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 114.0
+	},
+	"output.exec":
+	{
+		"height": 555.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "GalleriAhlenfeldt.sublime-project",
+	"replace":
+	{
+		"height": 72.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/Users/morten/Google Drive/Granhøjen/GTS/gts/gts-drupal-theme.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 339.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
