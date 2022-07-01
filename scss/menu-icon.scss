@@ -12,6 +12,14 @@
     &:hover {
             fill: var(--menu-icon-hover);
         }
+    .admin-bar & {
+        top: calc(1rem + 46px);
+    }
+}
+@media (min-width: 782px) {
+    .admin-bar .m-o {
+        top: calc(1rem + 32px);
+    }
 }
 
 .m-c {
