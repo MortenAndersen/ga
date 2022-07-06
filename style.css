@@ -18,7 +18,7 @@ Domain Path: /languages
   --menu-icon: #fff;
   --menu-icon-hover: #333;
   --menu-icon-close: #fff;
-  --header-bg: rgba(255,255,255,.7);
+  --header-bg: rgba(255,255,255,.3);
   --body-bg: #D7D7D7;
   --main-bg: #fff;
   --go-to-top: #222;
@@ -975,7 +975,7 @@ body {
 }
 
 .top-post-img {
-  min-height: 40vh;
+  min-height: 50vh;
   max-height: 700px;
   background-size: cover;
   background-position: center;
