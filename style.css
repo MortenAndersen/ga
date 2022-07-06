@@ -1146,6 +1146,7 @@ body {
   }
   .main-m ul {
     display: flex;
+    text-align: center;
   }
   .main-m li {
     position: relative;
