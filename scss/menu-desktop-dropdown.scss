@@ -11,10 +11,10 @@
             padding: 1rem;
             transition: .5s background;
             text-transform: uppercase;
-            color: #717171;
+            color: #fff;
 
             &:hover {
-                color: #333;
+                color: #ccc;
             }
         }
 
@@ -44,7 +44,7 @@
             display: flex;
         }
         [aria-current] {
-            border-bottom: 5px solid #717171;
+            border-bottom: 5px solid #fff;
         }
     }
 }
