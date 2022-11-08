@@ -11,7 +11,7 @@
         line-height: 40px;
         text-align: center;
         //border: 1px solid #ffffff29;
-        background: rgba(255, 255, 255, .1);
+        background: rgba(0,0,0, .1);
         border-radius: 3px;
         .sub-menu & {
         	
@@ -31,7 +31,7 @@
         width: 12px;
         margin-left: -6px;
         height: 1px;
-        background: #fff;
+        background: #222;
         transition: all .3s ease-in-out;
     }
 
@@ -44,7 +44,7 @@
     }
 
     .menu-trigger.active-trigger {
-        background: #044158;
+        background: #fff;
     }
 
     .menu-trigger.active-trigger:after {
@@ -54,7 +54,7 @@
     .main-m {
         margin-top: 0;
         flex: 1;
-        background: black;
+        background: #fff;
         width: 100%;
 
         position: fixed;
@@ -76,7 +76,7 @@
         >ul {
 
             >li {
-                background: rgba(255, 255, 255, .1);
+                background: rgba(240,234,233,0.98);
                 
             }
 
@@ -96,7 +96,7 @@
     }
 
     .main-m a {
-        color: rgba(255, 255, 255, .8);
+        color: #222;
         padding: 10px;
         display: flex;
 
@@ -104,7 +104,7 @@
     }
 
     .main-m a[aria-current="page"] {
-    	color: #e6e80e;
+    	font-weight: bold;
     }
 
     .open-main-m {
@@ -125,10 +125,10 @@
 
     .sub-menu {
         
-        background: #242424;
+        background: rgba(0,0,0,.05);
 
         ul {
-            background: #2a2a2a;
+            background: rgba(0,0,0,.05);
 
         }
 
